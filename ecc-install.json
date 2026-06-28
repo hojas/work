@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "target": "claude",
+  "include": [
+    "lang:typescript",
+    "framework:vue"
+  ],
+  "modules": [
+    "skill-vite-patterns"
+  ],
+  "options": {
+    "projectName": "work",
+    "description": "Vue 3 + TypeScript + Vite SPA deployed to GitHub Pages"
+  }
+}
